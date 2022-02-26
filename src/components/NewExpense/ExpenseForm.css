@@ -28,7 +28,7 @@
   text-align: center;
 }
 
-@media screen(max-width: 1200px) {
+@media screen(max-width: 820px) {
   .new-expense__controls {
     display: flex;
     grid-gap: 1rem;
